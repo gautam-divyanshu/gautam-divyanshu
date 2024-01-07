@@ -9,7 +9,7 @@
 </h1>
 
 
- <img align="right" width="300" height="300" src="anime.gif"/>
+ <img align="right" width="300" height="300" src="https://media.giphy.com/media/U4w70V3qqkZn8A0OwX/giphy.gif"/>
 
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-divyanshu&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact" />
@@ -37,7 +37,7 @@
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" height="40" width="52" alt="express logo" style="fill: #ffffff;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   </div>
