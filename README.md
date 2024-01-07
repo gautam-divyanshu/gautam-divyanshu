@@ -8,12 +8,11 @@
   </a>
 </h1>
 
-
- <img align="right"  src="https://media.giphy.com/media/U4w70V3qqkZn8A0OwX/giphy.gif"/>
-
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-divyanshu&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact" />
 <br>
+
+<img align="right"  src="https://media.giphy.com/media/U4w70V3qqkZn8A0OwX/giphy.gif"/>
  
 <a href="https://divyanshu-gautam.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-blue"  width="17%";margin-left:20px;margin-right:20px;></img></a>    
@@ -37,7 +36,6 @@
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-    ![Express.js Logo](https://img.shields.io/badge/express-white?logo=express&logoColor=white&style=for-the-badge)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   </div>
