@@ -8,14 +8,11 @@
   </a>
 </h1>
 
+<img align="right"  src="https://media.giphy.com/media/U4w70V3qqkZn8A0OwX/giphy.gif"/>
+
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-divyanshu&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact" />
 <br>
-
-<img align="right"  src="https://media.giphy.com/media/U4w70V3qqkZn8A0OwX/giphy.gif"/>
- 
-<a href="https://divyanshu-gautam.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-blue"  width="17%";margin-left:20px;margin-right:20px;></img></a>    
 
   
  ## Languages
@@ -51,6 +48,13 @@
   <a href="mailto:gautamdivyanshu034@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
   </a>
+<div/>
+
+<br>
+<br>
+<a href="https://divyanshu-gautam.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-blue"  width="17%";margin-left:20px;margin-right:20px;></img></a>    
+
   
    
 #
