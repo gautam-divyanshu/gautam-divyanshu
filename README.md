@@ -10,14 +10,7 @@
 
 <img align="right"  src="https://media.giphy.com/media/U4w70V3qqkZn8A0OwX/giphy.gif"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautam-divyanshu&show_icons=true&include_all_commits=true&bg_color=0000&title_color=ffff&text_color=ffff&icon_color=F34B7D&hide=issues,stars" />
 
-
-<br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-divyanshu&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact" />
-<br>
-
-  
  ## Languages
 
 <div align="left">
@@ -38,9 +31,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  </div>
+</div>
 
-## 🌐Socials
+## Connect with me on-
 <div align="left">
   <a href="https://www.linkedin.com/in/divyanshu034/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -52,17 +45,25 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
   </a>
 <div/>
+<br>
+<a href="https://divyanshu-gautam.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-blue"  width="17%";margin-left:20px;margin-right:20px;></img></a> 
 
 <br>
 <br>
-<a href="https://divyanshu-gautam.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-blue"  width="17%";margin-left:20px;margin-right:20px;></img></a>    
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautam-divyanshu&show_icons=true&include_all_commits=true&bg_color=0000&title_color=ffff&text_color=ffff&hide=issues,stars" />
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-divyanshu&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact" />
+<br>
+
+     
 
   
    
 #
     
-  <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+  <img height="80" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
   
   #
