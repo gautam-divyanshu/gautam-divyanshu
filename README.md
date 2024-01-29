@@ -52,7 +52,7 @@
 <br>
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautam-divyanshu&show_icons=true&include_all_commits=true&bg_color=0000&title_color=ffff&text_color=ffff&hide=issues,stars" />
+
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-divyanshu&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact" />
 <br>
