@@ -60,15 +60,7 @@
      
 
   
-   
-#
-    
-  <img height="80" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
-  
-  #
-  
-  ![image](https://user-images.githubusercontent.com/73706697/123554226-9df6cf80-d79c-11eb-90f9-fc1d2a28d8c4.png)
   
   
   
