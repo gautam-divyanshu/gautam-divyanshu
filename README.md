@@ -22,15 +22,27 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="Nextjs logo"  />
+
 </div>
 
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
+</div>
+
+<div align="left">
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" height="40" width="52" alt="linux logo"  />
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" height="40" width="52" alt="linux logo"  />
+
+
 </div>
 
 ## Connect with me on-
