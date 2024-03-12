@@ -8,8 +8,9 @@
   </a>
 </h1>
 
-<img align="right"  src="https://media.giphy.com/media/U4w70V3qqkZn8A0OwX/giphy.gif"/>
-
+<div align="left">
+  <img  src="https://media.giphy.com/media/U4w70V3qqkZn8A0OwX/giphy.gif"/>
+</div>
 
  ## Languages
 
