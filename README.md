@@ -62,7 +62,7 @@
 <div/>
 <br>
 <a href="https://divyanshu-gautam.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-blue"  width="17%";margin-left:20px;margin-right:20px;></img></a> 
+<!--   <img src="https://img.shields.io/badge/-Portfolio-blue"  width="17%";margin-left:20px;margin-right:20px;></img></a>  -->
 
 <br>
 <br>
