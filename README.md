@@ -59,6 +59,7 @@
   <a href="mailto:gautamdivyanshu034@gmail.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="56" height="44" alt="gmail logo"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=gautam-divyanshu" width=160px/>
 <div/>
 <br>
 <a href="https://divyanshu-gautam.vercel.app/" target="_blank">
@@ -68,11 +69,18 @@
 <br>
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautam-divyanshu&show_icons=true&include_all_commits=true&bg_color=0000&title_color=ffff&text_color=ffff&icon_color=F34B7D&hide=issues,stars" />
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-divyanshu&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact" />
+
+<br>
 <br>
 
-     
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=gautam-divyanshu&theme=dark)
+
+  <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
+  ![image](https://user-images.githubusercontent.com/73706697/123554226-9df6cf80-d79c-11eb-90f9-fc1d2a28d8c4.png)
 
   
 
