@@ -59,7 +59,6 @@
   <a href="mailto:gautamdivyanshu034@gmail.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="56" height="44" alt="gmail logo"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=gautam-divyanshu" width=160px/>
 <div/>
 <br>
 <a href="https://divyanshu-gautam.vercel.app/" target="_blank">
